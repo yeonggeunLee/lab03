@@ -1,0 +1,1 @@
+received from shared memory: 공유 메모리를 사용하여 파일 복사하는 테스트
